@@ -11,5 +11,4 @@ This repository contains small Python-based mini-projects created during my jour
   Anonymous functions
   Functional programming
   Real-world string processing
-# python-mini-projects
-A collection of Python mini-projects built while learning Data Science and AI. Includes lambda, map, filter, reduce, and more.
+  
