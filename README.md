@@ -2,12 +2,12 @@ This repository contains small Python-based mini-projects created during my jour
 
 ## Projects So Far
 
-- [Lambda Name Initials](Lambda_name_initials.ipynb)  
-- [OTP Generator using Closures](otp_generator_closures.ipynb)
+- 1 [Lambda Name Initials](Lambda_name_initials.ipynb)  
+- 2 [OTP Generator using Closures](otp_generator_closures.ipynb)
 
 
 
-  ### 🔹 Lambda Name Initials
+  ### 🔹1 Lambda Name Initials
 - **Tech Used**: `lambda`, `map`, `list comprehension`
 - **Goal**: Convert full names like `Virat Kohli` into initials like `V.K.`
 - **Skills Practiced:**
@@ -15,7 +15,7 @@ This repository contains small Python-based mini-projects created during my jour
   - Functional programming
   - Real-world string processing
 
-  ### 🔐 OTP Generator using Closures
+  ### 🔐2 OTP Generator using Closures
 - **Tech Used:** `closures`, `random`, `datetime`
 - **Goal:** Generate OTPs with dynamic timestamps and custom prefixes.
 - **Skills Practiced:**
