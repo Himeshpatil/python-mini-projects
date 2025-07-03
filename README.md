@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/e0202148-3e6e-4ca7-b757-5e3d385afb95)# Python Mini Projects
-
 This repository contains small Python-based mini-projects created during my journey to become a top-tier Data Scientist.
 
 ## Projects So Far
