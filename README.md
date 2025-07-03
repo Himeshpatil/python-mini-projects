@@ -16,11 +16,16 @@ This repository contains small Python-based mini-projects created during my jour
   Real-world string processing
 
   ### 🔐 OTP Generator using Closures
-- Tech Used: `closures`, `random`, `datetime`
+- **Tech Used:** `closures`, `random`, `datetime`
 - **Goal:** Generate OTPs with dynamic timestamps and custom prefixes.
 - **Skills Practiced:**
    Python closures
    Factory functions
    Real-time application logic
+- **Use-Cases:**
+   Login authentication
+   Banking transaction alerts
+   Secure one-time verifications
+
 
   
